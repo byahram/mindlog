@@ -4,7 +4,8 @@
 
 _말하지 않아도 드러나는 감정의 흐름을 데이터로 기록하다_
 
-<br>
+[18.12.2025 01_39.webm](https://github.com/user-attachments/assets/94ff4254-39b0-4948-a584-2410b377fff2)
+
 
 ## 1. Background & Introduction
 
