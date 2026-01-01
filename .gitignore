@@ -1,2 +1,20 @@
-data/raw/
+# --- Python & System ---
+__pycache__/
+*.py[cod]
+.DS_Store
+venv/
+.env
+
+# --- IDE Settings (VSCode, Pycharm) ---
+.vscode/
+.idea/
+
+# --- Project Data & Models ---
+# 용량이 큰 파일들은 깃허브에 올리지 않습니다.
 models/
+data/raw/
+outputs/
+
+# --- Data Exception ---
+# 만약 data/processed 안에 label_map.pkl 같은 작은 파일은 올리고 싶다면 주석 해제
+# !data/processed/label_map.pkl
